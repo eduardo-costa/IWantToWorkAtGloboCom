@@ -1,14 +1,15 @@
 # Vaga
 
 1. Plataforma de Publicação - Engenheiro de software - Porto Alegre
+  - https://globocom.recruiterbox.com/jobs/fk0h63u/ 
 2. Plataforma de vídeos - Engenheiro de software - Porto Alegre
-
-# Eduardo Dias da Costa
-!(profile picture)[https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/099/3f1/1f5c0f3.jpg]
+  - https://globocom.recruiterbox.com/jobs/fk0hhq2/
+ 
+# Eduardo Dias da Costa  
  - eduardo@thelaborat.org
  - 51 93775222
  - http://eduardo-costa.strikingly.com/
- 
+
 ## About Me
 I'm a software developer focused on client and front-end applications for over 10 years. Yet, I have no preferences on which type of project I'm going to work. I'm always open to learn and take up new challenges that can make me handle new languages and/or technologies.
 
