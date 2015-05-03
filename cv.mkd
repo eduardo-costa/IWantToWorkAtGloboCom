@@ -1,19 +1,72 @@
-Vaga
-====
+# Vaga
 
-[Preencha aqui a(s) vaga(s) que você pretende ordenadas por seu interesse - a primeira é a a sua prioridade]
+1. Plataforma de Publicação - Engenheiro de software - Porto Alegre
+2. Plataforma de vídeos - Engenheiro de software - Porto Alegre
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+# Eduardo Dias da Costa
+!(profile picture)[https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/099/3f1/1f5c0f3.jpg]
+ - eduardo@thelaborat.org
+ - 51 93775222
+ - http://eduardo-costa.strikingly.com/
+ 
+## About Me
+I'm a software developer focused on client and front-end applications for over 10 years. Yet, I have no preferences on which type of project I'm going to work. I'm always open to learn and take up new challenges that can make me handle new languages and/or technologies.
 
-CV
-==
+## Specialties
+ - Computer Graphics
+ - Game Development
+ - Tools Development (CLI, Desktop, ...)
+ - UI/UX/FrontEnd Development
+ - Software Engineering
+ - R&D
 
-[Preencha aqui o seu cv]
+## Skills
+ - [7y] C#
+ - [9y] C/C++
+ - [9y] Actionscript
+ - [9y] Shaders (Cg, HLSL, GLSL,...)
+ - [2y] Haxe
+ - [2y] Javascript
+ - [1y] Java
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+## OS I've worked with:
+ - Windows
+ - Linux
+ - OSX
+
+## Software tools/technologies I've worked with:
+ - Unity3D
+ - NodeJS
+ - MongoDB
+ - GIT
+ - Mercurial
+ - SVN
+ - Jenkins
+ - Less/SASS
+ - Grunt
+ - Amazon
+ - Experimental HTML5 (WebSockets, WebRTC, AudioAPI, WebGL, ...)
+
+## Management tools/techniques I've worked with:
+- Trello
+- JIRA
+
+## Methodologies I've worked with:
+- Scrum
+- TDD
+
+## Want some coding examples?
+ - GIT 
+  - https://github.com/eduardo-costa
+  - https://github.com/haxorplatform
+ - Mercurial 
+  - https://bitbucket.org/eduardo_costa
+
+## Best/Recent Example Projects:
+ - Multi-platform game/render engine
+  - https://github.com/haxorplatform/haxor-engine
+ - Binary Data Packer/Compressor using PNG
+  - https://github.com/haxorplatform/web-bundle
+ - Brazillian Election Funding Infographics
+  - http://tomaladaca.org/
+
